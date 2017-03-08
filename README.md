@@ -1,2 +1,2 @@
 # Python
-Python Code's for Beginners
+Just a try of hands on python as learner
