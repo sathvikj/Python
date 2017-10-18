@@ -1,5 +1,3 @@
-print("Welcome to Sathvik's e-Gym \nWe are here to help you manage your weight \n\nLets just get started")
-
 x = input("Please enter your name: ")
 y = float(input("Please enter your Height in Mtrs: "))
 z = float(input("Please enter your Weight in Kg's: "))
